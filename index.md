@@ -7,7 +7,7 @@
 ### Cool stuff
 
 - [<code>l33t-aardwolf-plugins</code>](https://www.l33t.xyz/l33t-aardwolf-plugins)
-- [<code>xterm.js</code>](https://www.l33t.xyz/xterm.js):  
+- [<code>xterm.js</code>](https://www.l33t.xyz/xterm.js) ([live demo](http://www.l33t.xyz/xterm.js/demo.html)):  
     A drop-in JavaScript module to colorize Xterm output on your webpages. Absolutely no external dependencies required!
 
 Back to [www.l33t.xyz](https://www.l33t.xyz).
