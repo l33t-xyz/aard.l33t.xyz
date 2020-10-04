@@ -10,5 +10,6 @@
 - **[PREMIUM l33t Aardwolf Plugins](https://l33t.xyz/aardwolf/premium/preview)**
 - [<code>xterm.js</code>](https://www.l33t.xyz/xterm.js) ([live demo](http://www.l33t.xyz/xterm.js/demo.html)):  
     A drop-in JavaScript module to colorize Xterm output on your webpages. Absolutely no external dependencies required!
+- [Aardwolf Player Database](https://l33t.xyz/aardwolf/players)
 
 Back to [www.l33t.xyz](https://www.l33t.xyz).
